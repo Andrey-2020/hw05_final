@@ -1,0 +1,4 @@
+[tool.isort]
+py_version=39
+line_length = 79
+known_local_folder = ["posts", "about", "users"]
